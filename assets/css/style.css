@@ -22,6 +22,7 @@
     margin-left: 50px;
 }
 .navbar-brand {
+	font-family: 'Georgia', Times, Times New Roman, serif;
 	margin-left: 75px;
 	font-size: 24px;
     color: #ffffff;
@@ -183,6 +184,7 @@ body {
 	float: left;
 	width: 100%;
 	padding: 20px;
+	margin-top: 20px;
 	margin-right: 50px;
 	color: 777777;
 	background-color: #ffffff;
@@ -219,6 +221,7 @@ p {
 	padding-top: 20px;
 	color: #777777;
 	border-top: solid;
+	border-width: thin;
 }
 
 #sidebar {
@@ -228,9 +231,8 @@ p {
 .connect {
 	padding: 15px;
 	margin: 10px;
-	border-bottom-width: thin;
 	border-bottom: solid;
-	border-style: thin;
+	border-width: thin;
 	border-bottom-color: #777777;
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-size: 28px;
